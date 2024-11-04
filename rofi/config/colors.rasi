@@ -1,0 +1,12 @@
+* {
+    BG:    rgba(20,20,21,0.0);
+    BGA:   #a6e3a1;
+    FG:    #D9E0EEff;
+    FGA:   #F28FADff;
+    BDR:   #a6e3a1;
+    SEL:   #202020;
+    UGT:   #F28FADff;
+    IMG:   #FAE3B0ff;
+    OFF:   #575268ff;
+    ON:    #ABE9B3ff;
+}
